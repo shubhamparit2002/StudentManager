@@ -1,4 +1,4 @@
-# School Demo
+# StudentManager
 
 School Demo is a PHP application for managing students and classes. It allows users to create, view, edit, and delete student records and classes. 
 Features include student image uploads, class dropdown selection, and CRUD operations. 
